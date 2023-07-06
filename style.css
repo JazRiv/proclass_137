@@ -1,0 +1,15 @@
+body{
+    background-color: #b3b3b3;
+    text-align: center;
+}
+
+.btn-danger{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color: white;
+    width: 100%;
+}
+
+.btn-success{
+    font-size: 17px;
+}
